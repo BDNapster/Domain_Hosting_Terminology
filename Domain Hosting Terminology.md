@@ -20,4 +20,8 @@
 <li><a href="#Bandwidth">Bandwidth</a> <code>ব্যান্ডউইথ</code></li>
 <li><a href="#Browser">Browser</a> <code>ব্রাউজার</code></li>
 </ul>
+<dl>
+<dt><a id="Apache-web-server">Apache web server</a> <code>এ্যাপাচি ওয়েব সার্ভার</code></dt>
+<dd>A web server delivers web content to users</dd>
+</dl>
 
