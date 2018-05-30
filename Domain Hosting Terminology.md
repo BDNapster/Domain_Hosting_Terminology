@@ -17,6 +17,6 @@
 <li><a href="#Apache-web-server">Apache web server</a> <code>এ্যাপাচি ওয়েব সার্ভার</code></li>
 <li><a href="#Auto-responder">Auto responder</a> <code>অটো রেস্পন্ডার</code></li>
 <li><a href="#Backup">Backup</a> <code>ব্যাকআপ</code></li>
-<li></li>
+<li><a href="#Bandwidth">Bandwidth</a> <code>ব্যান্ডউইথ</code></li>
 </ul>
 
