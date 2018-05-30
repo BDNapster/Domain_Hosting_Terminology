@@ -7,6 +7,8 @@
 <dl>
 <dt>Authors <code>লেখক</code></dt>
 <dd>M. N. Ferdous <code>এম. এন. ফেরদৌস</code></dd>
+<dt>Powered by</dt>
+<dd><a href="https://socheaphosting.com">SO CHEAP HOSTING</a></dd>
 </dl>
 <h3 id="web-hosting-has-its-own-language-of-terms-and-abbreviations.-the-following-list-discusses-some-commonly-used-web-hosting-terms-you-may-encounter.">Web hosting has its own language of terms and abbreviations. The following list discusses some commonly used web hosting terms you may encounter.</h3>
 <p><code>অন্য সব কিছুর বিশেষত্বের মতই, ওয়েব হোস্টিং নিজস্ব ভাষা এবং টার্ম আছে। নিম্নোক্ত তালিকাটি এমন কিছু সাধারণভাবে ব্যবহৃত ওয়েব হোস্টিং টার্মগুলির সাথে আলোচনা করা হবে যা আপনি সম্মুখীন হতে পারেন।</code></p>
