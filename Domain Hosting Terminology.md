@@ -22,6 +22,7 @@
 </ul>
 <dl>
 <dt><a id="Apache-web-server">Apache web server</a> <code>এ্যাপাচি ওয়েব সার্ভার</code></dt>
-<dd>A web server delivers web content to users (usually on their web browsers). Apache is a popular, feature-rich, and stable web server that <a href="https://socheaphosting.com">SO CHEAP HOSTING</a> uses for almost all of its hosting packages.</dd>
+<dd>A web server delivers web content to users (usually on their web browsers). Apache is a popular, feature-rich, and stable web server that <a href="https://socheaphosting.com">SO CHEAP HOSTING</a> uses for almost all of its hosting packages.<br>
+<code>একটি ওয়েব সার্ভার যা ব্যবহারকারীদের ওয়েব কন্টেন্ট দেখায় (সাধারণত তাদের ওয়েব ব্রাউজারে)। এ্যাপাচি একটি জনপ্রিয়, বৈশিষ্ট্য সমৃদ্ধ, এবং স্থিতিশীল ওয়েব সার্ভার যা</code> <a href="https://socheaphosting.com">SO CHEAP HOSTING</a> <code>তাদের সব হোস্টিং প্যাকেজ ব্যবহার করে।</code></dd>
 </dl>
 
