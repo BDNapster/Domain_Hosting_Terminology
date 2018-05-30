@@ -3,7 +3,7 @@
 
 ---
 
-<h2 id="glossary-of-commonly-used-web-hosting-terms-সাধারণত-ব্যবহৃত-ওয়েব-হোস্টিং-শব্দকোষ">Glossary of commonly used web hosting terms <code>সাধারণত ব্যবহৃত ওয়েব হোস্টিং শব্দকোষ</code></h2>
+<h2 id="glossary-of-commonly-used-web-hosting-terms-সাধারণভাবে-ব্যবহৃত-ওয়েব-হোস্টিং-বিষয়ক-শব্দকোষ">Glossary of commonly used web hosting terms <code>সাধারণভাবে ব্যবহৃত ওয়েব হোস্টিং বিষয়ক শব্দকোষ</code></h2>
 <dl>
 <dt>Authors <code>লেখক</code></dt>
 <dd>M. N. Ferdous <code>এম. এন. ফেরদৌস</code></dd>
