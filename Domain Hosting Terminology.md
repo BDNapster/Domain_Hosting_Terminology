@@ -18,5 +18,6 @@
 <li><a href="#Auto-responder">Auto responder</a> <code>অটো রেস্পন্ডার</code></li>
 <li><a href="#Backup">Backup</a> <code>ব্যাকআপ</code></li>
 <li><a href="#Bandwidth">Bandwidth</a> <code>ব্যান্ডউইথ</code></li>
+<li><a href="#Browser">Browser</a> <code>ব্রাউজার</code></li>
 </ul>
 
