@@ -37,7 +37,6 @@
 <li>This server is highly configurable and extensible with third party modules. <code>এই সার্ভারটি তৃতীয় পক্ষের মডিউলগুলির সাথে অত্যন্ত কনফিগারযোগ্য এবং বিস্তৃত।</code></li>
 <li>It provides complete source code and comes with an unrestricted license. <code>এটি সম্পূর্ণ উৎস কোড প্রদান করে এবং একটি অবাধ লাইসেন্সযুক্ত লাইসেন্সের সাথে আসে।</code></li>
 <li>Apache supports some of the capabilities like CGI (Common Gateway Interface) and SSI (Server Side Includes), URL redirection, loading modules support, user authentication, proxy caching abilities etc. <code>এ্যাপাচি সি.জি.আই. (কমন গেটওয়ে ইন্টারফেস) এবং এস.এস.আই. (সার্ভার সাইড অন্তর্ভুক্ত), ইউআরএল রিডাইরেক্টেশন, লোডিং মডিউল সাপোর্ট, ইউজার প্রোটেকশন, প্রক্সি ক্যাশে ক্ষমতা ইত্যাদি কিছু ক্ষমতা সমর্থন করে।</code></li>
-<li></li>
 </ul>
 </dd>
 </dl>
