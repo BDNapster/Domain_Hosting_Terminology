@@ -17,6 +17,7 @@
 <li><a href="#Apache-web-server">Apache web server</a> <code>এ্যাপাচি ওয়েব সার্ভার</code></li>
 <li><a href="#Apache-HTTP-Server">Apache HTTP Server</a> <code>এ্যাপাচি এইচ.টি.টি.পি সার্ভার</code></li>
 <li><a href="#Features-of-Apache-Server">Apache Server’s Features</a> <code>এ্যাপাচি সার্ভারের বৈশিষ্ট্য</code></li>
+<li><a href="#Apache-Configuration-Files">Apache Configuration Files</a> <code>এ্যাপাচি কনফিগারেশন ফাইলগুলি</code></li>
 <li><a href="#Auto-responder">Auto responder</a> <code>অটো রেস্পন্ডার</code></li>
 <li><a href="#Backup">Backup</a> <code>ব্যাকআপ</code></li>
 <li><a href="#Bandwidth">Bandwidth</a> <code>ব্যান্ডউইথ</code></li>
