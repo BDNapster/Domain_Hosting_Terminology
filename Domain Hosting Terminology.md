@@ -40,5 +40,26 @@
 <li>Apache supports some of the capabilities like CGI (Common Gateway Interface) and SSI (Server Side Includes), URL redirection, loading modules support, user authentication, proxy caching abilities etc. <code>এ্যাপাচি সি.জি.আই. (কমন গেটওয়ে ইন্টারফেস) এবং এস.এস.আই. (সার্ভার সাইড অন্তর্ভুক্ত), ইউআরএল রিডাইরেক্টেশন, লোডিং মডিউল সাপোর্ট, ইউজার প্রোটেকশন, প্রক্সি ক্যাশে ক্ষমতা ইত্যাদি কিছু ক্ষমতা সমর্থন করে।</code></li>
 </ul>
 </dd>
+<dt><strong><a id="Apache-Configuration-Files">Apache Configuration Files </a> <code>এ্যাপাচি কনফিগারেশন ফাইলগুলি</code></strong></dt>
+<dd>
+
+<table>
+<thead>
+<tr>
+<th align="right">Configuration Files <code>কনফিগারেশন ফাইলগুলি</code></th>
+<th align="center">Description<code>বিবরণ</code></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="right"><code>Charset.conv</code></td>
+<td align="center">This file tells which character set is to be used for different languages. <code>এই ফাইলটি বিভিন্ন ভাষার জন্য কোন অক্ষর সেট ব্যবহার করা হয় তা নির্দেশ করে।</code></td>
+</tr>
+<tr>
+<td align="right"><code>conf.d/*.conf</code></td>
+<td align="center">It is added by other modules which are included into virtual host configuration when required. <code>এটি অন্যান্য মডিউল দ্বারা যোগ করা হয় যা প্রয়োজন হলে ভার্চুয়াল হোস্ট কনফিগারেশন অন্তর্ভুক্ত করা হয়।</code></td>
+</tr>
+</tbody>
+</table></dd>
 </dl>
 
